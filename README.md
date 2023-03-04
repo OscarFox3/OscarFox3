@@ -1,4 +1,4 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">] Hi I'm Oscar
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi I'm Oscar!
 
 ## I'm a Software Engineering Student and U.S. Army Veteran
 ---
@@ -9,10 +9,3 @@
 
 [![Oscar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OscarFox3&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## Connect With Me:
-
-[linkedin]: https://www.linkedin.com/in/oscar-fox/
-
-<br />
